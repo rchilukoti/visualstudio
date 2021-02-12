@@ -16,6 +16,7 @@ namespace devops
     {
         public Startup(IConfiguration configuration)
         {
+            //my changes
             Configuration = configuration;
         }
 
